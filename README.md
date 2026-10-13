@@ -1,55 +1,11 @@
 <div align="center">
 
-```text
-                 .--------------------.
-                /                      \
-               /      .----------.      \
-              /      /  .------.  \      \
-             /      /  /  _  _  \  \      \
-            |      |  |  [o][o]  |  |      |
-            |      |  |    /\    |  |      |
-            |      |   \  '=='  /   |      |
-             \      \   '------'   /      /
-              \      '------------'      /
-               \                        /
-                '--..______________..--'
-                   /      ||      \
-                  /       ||       \
-                 / /|     ||     |\ \
-                /_/ |     ||     | \_\
-
-   [!] SYSTEM INITIALIZED // ROOT ACCESS GRANTED
-   [#] IDENT: ABHISHEK RAAJ // FULL-STACK HACKER
-```
-
-```bash
-root@abhishek:~$ whoami
-> Abhishek Raaj ? Full-Stack Engineer, AI Architect & Systems Hacker
-root@abhishek:~$ uname -a
-> Linux shadow-kernel 6.8.0-kali-amd64 #1 SMP PREEMPT x86_64 GNU/Linux
-root@abhishek:~$ cat /etc/motd
-> "Wake up, Neo... Follow the white rabbit."
-```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Building+Scalable+Full-Stack+Architectures;Zero-Knowledge+End-to-End+Encrypted+Apps;AI-Powered+Platforms+%26+Automation+Engines;Passionate+Problem+Solver+%26+Open+Source+Builder)](https://git.io/typing-svg)
 
 ---
 
 </div>
-
-### ? System Status & Telemetry
-
-```ini
-[DEVELOPER_INFO]
-Alias       = @abhishekraaj07
-Role        = Full-Stack Web & AI Systems Developer
-Status      = Building Next-Gen Distributed & Real-Time Applications
-Focus       = React 19, TypeScript, Cloudflare Workers, Python AI, Performance
-Shell       = zsh / powershell / bash
-Security    = Zero-Knowledge E2EE, OWASP Best Practices
-```
-
----
 
 ### ?? Pinned & Flagship Repositories
 
