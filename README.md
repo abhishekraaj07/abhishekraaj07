@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=githubpages&logoColor=white" />
+        <a href="https://abhishekraaj07.github.io/ccsu-bca-5sem-pyq-solver/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=githubpages&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
